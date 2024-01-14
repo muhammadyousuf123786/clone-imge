@@ -3,6 +3,7 @@
     border-width: 0%;
     color: #000;
     background-color: white;
+    padding: 0%;
 }
 body{
   text-align: center;  
@@ -13,24 +14,27 @@ body{
 }
 h2{
     color: #9c1717;: aqua;
-    line height: 20px;
+    line height: 23px;
+    padding: auto;
+    max-width: 23;
+    
 }
 h1{
     color: #e09d0b;
-    line height: 20px;
+    line height: 23px;
 }
 .img1{
     margin: 1%;
     padding: 0%;
-    size: 50px;
+    size: 30px;
 }.img2{
     margin: 1%;
     padding: 0%;
-    size: 50px;
+    size: 28px;
 }.img3{
     margin: 1%;
     padding: 0%;
-    size: 50px;
+    size: 30px;
 } 
 ul{
     width: 870px;
@@ -47,9 +51,12 @@ ul{
  }
  #home{
     color: #9c1717;
+    
  }
  a{
     color: aqua;
     text-transform:capitalize;
  }
- 
+ /* home:hover{
+    color: #e09d0b; */
+ }
